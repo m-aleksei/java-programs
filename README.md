@@ -1,4 +1,4 @@
-This repository contains software testing on Java.
+This repository about software testing on Java.
 
 // last update: 15.01.2019
 
